@@ -1,0 +1,20 @@
+{
+  "users": {
+    "false23566361738": {
+      "sudoList": [
+        "23566361738@s.whatsapp.net",
+        "23566361738@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/MaoCyber-tech.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
